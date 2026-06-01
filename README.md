@@ -60,7 +60,7 @@ Clone the repository:
 
 ```bash
 git clone <your-repository-url>
-cd CRUD-TASK
+cd CRUD_task
 ```
 
 Create and activate virtual environment:
